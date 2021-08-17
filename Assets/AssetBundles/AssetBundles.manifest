@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 851522685
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: canvas.model
+      Dependencies: {}
